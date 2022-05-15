@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Ritesh 👋
 
 
 - 🔭 I’m currently developing my skills in BigData
