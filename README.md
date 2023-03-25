@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RiteshRavichandran](https://github.com/RiteshRavichandran)
+- 👨‍💻 All of my projects are available at **[@GitHub](https://github.com/RiteshRavichandran "Ritesh@GitHub")**
 
-- 📫 How to reach me **@LinkedIn https://www.linkedin.com/in/ritesh-r-8986331b9**
+- 📫 How to reach me **[@LinkedIn](https://www.linkedin.com/in/ritesh-r-8986331b9 "Ritesh@LinkedIn")**
 
 - ⚡ Fun fact **In 2020, every person generated 1.7 megabytes per second -IBM**
 
