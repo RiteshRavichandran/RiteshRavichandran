@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshravichandran&label=Profile%20views&color=0e75b6&style=flat" alt="riteshravichandran" /> </p>
 
-- 🔭 I’m currently developing skills in **Web Development & BigData**
+- 🔭 I’m currently developing skills in **Flutter & BigData**
 
 - 🌱 I’m currently learning **Data Analysis**
 
 - 👯 I’m looking to collaborate with other **Web Devs & Data Scientists**
 
-- 🤝 I’m looking for help with **React Native**
+- 🤝 I’m looking for help with **Flutter**
 
 - 👨‍💻 All of my projects are available **[@GitHub](https://github.com/RiteshRavichandran "Ritesh@GitHub")**
 
